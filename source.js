@@ -149,7 +149,7 @@ function sendConfirmationEmail(name, email, dateTime) {
     service: 'gmail',
     auth: {
       user: 'spotwyll@gmail.com',
-      pass: 'extbgbmoxtkjskhz'
+      pass: 
     }
   });
 
